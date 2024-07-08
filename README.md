@@ -1,1 +1,1 @@
-Simple Tetris proj
+Simple Tetris project
